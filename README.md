@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alvaro
-- 👀 I’m interested in frontend development and automatization (Automation and other tools).
-- 🌱 I’m currently learning frontend.
+- 👀 I’m interested in frontend development.
+- 🌱 I’m constantly learning new things.
 - 💞️ I’m looking to collaborate as frontend developer.
 - 📫 You can contact me through my mail: asalazard@outlook.cl or sdaledr@gmail.com
 
